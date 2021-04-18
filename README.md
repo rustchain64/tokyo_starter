@@ -1,2 +1,2 @@
 # tokyo_starter
-a quick async starter
+a lean tokio streaming async project starter
